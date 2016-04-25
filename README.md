@@ -14,3 +14,24 @@ Elastic bill is a multi cloud platform billing management tool. Using this tool 
 5- Cloud resource uptime/downtime scheduler. 
 
 6- Multi availability zone and multi lingual support.
+
+# Technology Stack
+
+1- Django as web/rest framework.
+
+2- Backbone js as frontend Javascript MVC framework.
+
+3- Boostrap 3 for user interface design.
+
+4- MongoDB as primary database.
+
+5- Elasticsearch as analytics and search server.
+
+6- PyUnit for unit testing.
+
+7- TravisCI for continuous integration and build test. 
+
+# Contributer required for this project.
+
+
+
