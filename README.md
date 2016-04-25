@@ -35,7 +35,7 @@ Elastic bill is a multi cloud platform billing management tool. Using this tool 
 
 9- RabbitMQ for message queue.
 
-# Contributers required for this project.
+# Contributors required for this project.
 
 
 
