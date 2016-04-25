@@ -31,6 +31,10 @@ Elastic bill is a multi cloud platform billing management tool. Using this tool 
 
 7- TravisCI for continuous integration and build test. 
 
+8- Redis for in memory caching.
+
+9- RabbitMQ for message queue.
+
 # Contributer required for this project.
 
 
