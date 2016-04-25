@@ -9,7 +9,7 @@ Elastic bill is a multi cloud platform billing management tool. Using this tool 
 
 3- Set billing limit to the cloud resources.
 
-4- Better resource planning by analysis of usage of cloud instances.
+4- Better resource planning by usage analysis of cloud instances.
 
 5- Cloud resource uptime/downtime scheduler. 
 
