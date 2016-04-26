@@ -39,12 +39,19 @@ Elastic bill is a multi cloud platform billing management tool. Using this tool 
 # How to contribute?
 Steps:
 1 - Fork the repository.
+
 2 - Clone your forked repository.
-3 - Install python 3.4 
-4 - Install pip3; e.g. sudo apt-get install pip3
-5 - Install selenium ; e.go pip3 install selenium
-6 - To run functional test ; python3 functional_test.py
-7 - To start your server python3 manage.py runserver 
+
+3 - Install python 3.4.
+
+4 - Install pip3; e.g. sudo apt-get install pip3.
+
+5 - Install selenium ; e.go pip3 install selenium.
+
+6 - To run functional test ; python3 functional_test.py.
+
+7 - To start your server python3 manage.py runserver.
+
 # Contributors required for this project.
 
 
