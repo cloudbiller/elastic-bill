@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/cloudbiller/elastic-bill.svg?branch=master)](https://travis-ci.org/cloudbiller/elastic-bill)
 # elastic-bill
 Elastic bill is a multi cloud platform billing management tool. Using this tool you can manage your billing, resource utilization across multiple cloud platform like Amazon AWS, Microsoft Azzure,Joyent cloud,Verizon cloud,alicloud and IBM blumix.
 
@@ -35,6 +36,15 @@ Elastic bill is a multi cloud platform billing management tool. Using this tool 
 
 9- RabbitMQ for message queue.
 
+# How to contribute?
+Steps:
+1 - Fork the repository.
+2 - Clone your forked repository.
+3 - Install python 3.4 
+4 - Install pip3; e.g. sudo apt-get install pip3
+5 - Install selenium ; e.go pip3 install selenium
+6 - To run functional test ; python3 functional_test.py
+7 - To start your server python3 manage.py runserver 
 # Contributors required for this project.
 
 
