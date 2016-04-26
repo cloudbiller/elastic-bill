@@ -1,0 +1,24 @@
+#   A basic travis.yml boilerplate for Django projects
+#
+#   The set-up assumes a postgreSQL database.
+#
+#   Replace the following variables in the code:
+# * your_project_settings
+# * your_github_username
+# * your_repo
+
+language: python
+
+python:
+  - 3.4
+
+env:
+  - DJANGO=1.8.4
+
+install:
+  - pip3 install django==$DJANGO --quiet
+  - pip3 install --upgrade selenium
+
+script:
+  - python3 manage.py test
+  - python3 functional_tests.py
