@@ -2,7 +2,7 @@
 
 #Product Philoshophy and Vision
 
-The billing of any cloud paas provider is a complicated task. And many of the companies paying a lot of money to the paas provider due to non optimized system.Our vision is to build a analytics system which helps to monitor cost by optimizing paas infrastructure.
+The billing of any cloud paas provider is a complicated task. And many of the companies paying a lot of money to the paas provider due to non optimized system.Our vision is to build an analytics system which helps to monitor cost by optimizing paas infrastructure.
 
 # elastic-bill
 
