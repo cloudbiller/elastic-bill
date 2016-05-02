@@ -1,5 +1,11 @@
 [![Build Status](https://travis-ci.org/cloudbiller/elastic-bill.svg?branch=master)](https://travis-ci.org/cloudbiller/elastic-bill)
+
+#Product Philoshophy and Vision
+
+The billing of any cloud paas provider is a complicated task. And many of the companies paying a lot of money to the paas provider due to non optimized system.Our vision is to build a analytics system which helps to monitor cost by optimizing paas infrastructure.
+
 # elastic-bill
+
 Elastic bill is a multi cloud platform billing management tool. Using this tool you can manage your billing, resource utilization across multiple cloud platform like Amazon AWS, Microsoft Azzure,Joyent cloud,Verizon cloud,alicloud and IBM blumix.
 
 # Features to be develop in first phase.
