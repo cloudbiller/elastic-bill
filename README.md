@@ -8,6 +8,10 @@ The billing of any cloud paas provider is a complicated task. And many of the co
 
 Elastic bill is a multi cloud platform billing management tool. Using this tool you can manage your billing, resource utilization across multiple cloud platform like Amazon AWS, Microsoft Azzure,Joyent cloud,Verizon cloud,alicloud and IBM blumix.
 
+# Elastic-bill ( https://github.com/cloudbiller/elastic-bill ) High level architecture
+
+![alt tag](https://raw.githubusercontent.com/cloudbiller/elastic-bill-arch/master/eb-high-level-arch.png)
+
 # Features to be develop in first phase.
 
 1- Daily,monthly,weekly billing reports.
